@@ -12,7 +12,7 @@ def clean_name(name: str):
     if case_rule == "lower":
         cleaned = cleaned.lower()
         print(f"Cleaned Name: {cleaned}")
-        cleaned = cleaned.count("a")s
+        cleaned = cleaned.count("a")
         print(f"How many a's: {cleaned}")
 
 
