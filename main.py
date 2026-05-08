@@ -15,8 +15,6 @@ def clean_name(name: str):
         cleaned = cleaned.count("a")
         print(f"How many a's: {cleaned}")
 
-#COMMENT
-
 if __name__ == "__main__":
     # car_1 = car_class("toyota", "camry", 1500)
     # car_2 = car_class("nissan", "terra", 1500)
